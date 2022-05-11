@@ -17,7 +17,7 @@ const Hero = () => (
 			</SectionTitle>
 			<SectionText>
 				I am a web developer and machine learning enthusiast. I have done work
-				in various sectors of computer science and enggineering.
+				in various sectors of computer science and engineering.
 			</SectionText>
 			<Button onClick={() => (window.location = '#about')}>Learn More</Button>
 		</LeftSection>
