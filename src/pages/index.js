@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import Acomplishments from '../components/Acomplishments/Acomplishments';
 import BgAnimation from '../components/BackgrooundAnimation/BackgroundAnimation';
 import Hero from '../components/Hero/Hero';
@@ -10,6 +11,9 @@ import { Section } from '../styles/GlobalComponents';
 const Home = () => {
 	return (
 		<Layout>
+			<Head>
+				<title>Nalin Kashyap</title>
+			</Head>
 			<Section grid>
 				<Hero />
 				<BgAnimation />
