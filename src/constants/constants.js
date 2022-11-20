@@ -5,7 +5,7 @@ export const projects = [
 		image: '/images/1.png',
 		tags: ['django', 'web scraping'],
 		source: 'https://github.com/Nkashyap-anand/Weather-App',
-		visit: 'https://google.com',
+		visit: 'https://nk-react-weather-app.netlify.app',
 		id: 0,
 	},
 	{
