@@ -16,6 +16,6 @@
     "styled-normalize": "^8.0.7"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs": "^4.7.0"
+    "@netlify/plugin-nextjs": "^4.29.1"
   }
 }
