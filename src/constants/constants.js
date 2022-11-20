@@ -29,10 +29,10 @@ export const projects = [
 	},
 	{
 		title: 'E-commerce',
-		description: 'E-commerce full stack app',
+		description: 'E-commerce full stack app using sanity as CMS and stripe integration for payment',
 		image: '/images/4.png',
-		tags: ['React', 'Node.js', 'Express'],
-		source: 'https://google.com',
+		tags: ['React', 'Next.js', 'Sanity', 'Stripe'],
+		source: 'https://github.com/Nkashyap-anand/ecommerce',
 		visit: 'https://google.com',
 		id: 3,
 	},
